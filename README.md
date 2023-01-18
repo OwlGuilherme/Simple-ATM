@@ -20,7 +20,7 @@ Antes de começar, verifique os seguintes requisitos:
 + ![GitHub top language](https://img.shields.io/github/languages/top/guilhermesantos99/Caixa-Eletronico)
 
 ## ⚙️ Utilização
-+ Faça o download do repositório com o comando _git clone https://github.com/GuilhermeSantos99/Caixa-Eletronico.git_
++ Faça o download do repositório com o comando _git clone https://github.com/https://github.com/OwlGuilherme/Simple-ATM
 + Na pasta do download, abra o terminal execute e comando: _make_ para compilar o código
 + Execute o comando _./atm_ para executar o código
 
